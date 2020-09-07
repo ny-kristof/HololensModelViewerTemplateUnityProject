@@ -1,2 +1,2 @@
 # HololensModelViewerTemplateUnityProject
- This contains a pre-configured project for mixed reality.
+ This repo contains a pre-configured project for mixed reality.
